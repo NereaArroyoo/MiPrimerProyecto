@@ -1,2 +1,4 @@
 Este es un fichero creado en mi repositorio local
 Nueva linea añadida
+
+Cambios realizados desde el repositorio local
